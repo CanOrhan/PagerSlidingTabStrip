@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.astuetz;
+package uk.co.kiwisoft;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -39,9 +39,10 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+
 import java.util.Locale;
 
-import com.astuetz.pagerslidingtabstrip.R;
+
 
 public class PagerSlidingTabStrip extends HorizontalScrollView {
 

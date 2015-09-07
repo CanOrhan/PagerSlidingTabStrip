@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.astuetz.viewpager.extensions.sample;
+package uk.co.kiwisoft.viewpagerextensions.sample;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -34,7 +34,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.astuetz.PagerSlidingTabStrip;
+import com.astuetz.viewpager.extensions.sample.R;
+
+import uk.co.kiwisoft.PagerSlidingTabStrip;
 
 public class MainActivity extends FragmentActivity {
 
